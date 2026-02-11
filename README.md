@@ -17,7 +17,7 @@ A simple command-line implementation of the classic Rock, Paper, Scissors game w
 ## How to Run
 
 ```bash
-python main.py
+python main.py or python3 main.py
 ```
 
 ## Game Rules
